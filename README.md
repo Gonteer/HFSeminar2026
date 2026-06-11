@@ -1,4 +1,4 @@
-## 한국주택금융공사 2025년도 제3차 디지털전환교육(Python) 2025.06.18
+## 한국주택금융공사 2026년도 Python교육 2026.06.16
 
 :open_book: 강의 자료
 - Python 기초 : https://o365deu-my.sharepoint.com/:b:/g/personal/kmyco_office_deu_ac_kr/Eer5j7Bdo5hFu2qtpmgRf1cBGwln-hfOJ-CMY9OnI_Dyxg?e=aPY4Cs
